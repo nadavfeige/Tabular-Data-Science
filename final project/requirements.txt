@@ -1,0 +1,2 @@
+mlxtend==0.21.0
+fancyimpute==0.7.0
